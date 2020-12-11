@@ -1,0 +1,13 @@
+D:\projects\lab3_1_oop\lab3_1_oop\bin\Debug\netcoreapp3.1\lab3_1_oop.exe
+D:\projects\lab3_1_oop\lab3_1_oop\bin\Debug\netcoreapp3.1\lab3_1_oop.deps.json
+D:\projects\lab3_1_oop\lab3_1_oop\bin\Debug\netcoreapp3.1\lab3_1_oop.runtimeconfig.json
+D:\projects\lab3_1_oop\lab3_1_oop\bin\Debug\netcoreapp3.1\lab3_1_oop.runtimeconfig.dev.json
+D:\projects\lab3_1_oop\lab3_1_oop\bin\Debug\netcoreapp3.1\lab3_1_oop.dll
+D:\projects\lab3_1_oop\lab3_1_oop\bin\Debug\netcoreapp3.1\lab3_1_oop.pdb
+D:\projects\lab3_1_oop\lab3_1_oop\obj\Debug\netcoreapp3.1\lab3_1_oop.csprojAssemblyReference.cache
+D:\projects\lab3_1_oop\lab3_1_oop\obj\Debug\netcoreapp3.1\lab3_1_oop.csproj.CoreCompileInputs.cache
+D:\projects\lab3_1_oop\lab3_1_oop\obj\Debug\netcoreapp3.1\lab3_1_oop.AssemblyInfoInputs.cache
+D:\projects\lab3_1_oop\lab3_1_oop\obj\Debug\netcoreapp3.1\lab3_1_oop.AssemblyInfo.cs
+D:\projects\lab3_1_oop\lab3_1_oop\obj\Debug\netcoreapp3.1\lab3_1_oop.dll
+D:\projects\lab3_1_oop\lab3_1_oop\obj\Debug\netcoreapp3.1\lab3_1_oop.pdb
+D:\projects\lab3_1_oop\lab3_1_oop\obj\Debug\netcoreapp3.1\lab3_1_oop.genruntimeconfig.cache
